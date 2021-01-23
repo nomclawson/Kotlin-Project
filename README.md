@@ -14,7 +14,6 @@ This program was written in Kotlin and developed with Android Studio. One except
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Programiz - Learn Kotlin Programming](https://www.programiz.com/kotlin-programming)
 * [Official Kotlin Website](https://kotlinlang.org/api/latest/jvm/stdlib/)
 * [SUNEET AGRAWAL - GitHub](https://agrawalsuneet.github.io/tags/kotlin/)
