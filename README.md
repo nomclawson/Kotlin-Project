@@ -25,4 +25,4 @@ While this is only part one of two of making an Android app there are many thing
 * Modulize the `checkAllAdjacent` function
 * Organize functions for greater readability 
 * Change the type stored in each space on the board to an `Int`
-* Add comments for documentation
+* Add comments for better documentation
