@@ -4,7 +4,7 @@ This is phase one of a project developing a mobile app version of Connect 4 for 
 For phase one I developed a terminal version that uses text input and output.
 
 I thought this project would not only be fun, as I could have my own homemade game on my phone, but also useful in teaching 
-me about app develop and the Kotlin programming language. I wanted a project that covered all of the fundamentals in programming -- collections, loops, classes, etc. -- but one that wouldn't be overwhelming as my first program in a new language.
+me about app development and the Kotlin programming language. I wanted a project that covered all of the fundamentals in programming -- collections, loops, classes, etc. -- but one that wouldn't be overwhelming as my first program in a new language.
 
 [Connect 4 Demo Video](https://youtu.be/sS3H9YLbbL8)
 
